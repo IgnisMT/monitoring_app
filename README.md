@@ -81,7 +81,7 @@ La función `setup_menu_events` conecta los botones del `Menu` a la función `ch
 
 La vista por defecto al iniciar la aplicación es `TrackingView`.
 
-## Contribuir
+## Contribuir(Prueba no esta habilitado)
 
 Si deseas contribuir al proyecto, por favor sigue estos pasos:
 
